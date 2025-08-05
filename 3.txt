@@ -1,0 +1,7 @@
+Name:-G.Bhavyamani
+Phone:-123456789
+Email:-abc123@gmail.com
+Password:-Abc
+College name:-Aditya Womens Degree College
+Course:-BCA
+Section:-BCA-B
